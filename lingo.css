@@ -1,0 +1,49 @@
+body{
+    background-image: url("lingo.jpg");
+    background-size: 2000px
+	
+}
+a{
+	margin-left: 10px;
+	margin-right: 70px;
+}
+#game-container{
+	background-color:rgba(245, 245, 39, 0.897)  ;
+	height: 300px;
+
+}
+#pagina{
+	width: 500px;
+	margin: 0px auto;
+	margin-top: 10px;
+}
+#white{
+	background-color: white;
+	box-sizing: border-box;
+	padding-top: 7px;
+	width: 500px;
+	height: 310px;
+	font-size: 50px;
+	text-align: center;
+
+}
+#button1{
+	margin-left: 185px;
+	margin-bottom: 20px;
+}
+#button2{
+	margin-left: 10px;
+	margin-bottom: 20px;
+}
+.input{
+ margin-left: 42px;
+ margin-top: 15px;
+}
+.boxes{
+	border: solid black 1px;
+	margin-top: 7px;
+	margin: 0px;
+	width: 50px;
+	min-width: 50px;
+	height: 50px;
+	display: inline-block;
